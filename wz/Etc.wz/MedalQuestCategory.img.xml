@@ -1,8 +1,0 @@
-﻿<?xml version="1.0" encoding="utf-8" standalone="yes"?>
-<imgdir name="MedalQuestCategory.img">
-  <string name="0" value="default" />
-  <string name="1" value="勳章─職業" />
-  <string name="2" value="勳章─般" />
-  <string name="3" value="勳章─挑戰" />
-  <string name="4" value="勳章─活動" />
-</imgdir>
